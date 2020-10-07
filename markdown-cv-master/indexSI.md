@@ -1,19 +1,18 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Erik Babič CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Erik Babič
+Magister Ekonomije, Programer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://www.linkedin.com/in/erik-babi%C4%8D-a81b9994/">linkedIn</a>
 </div>
 
 
-## Currently
+## Trenutno
 
-Standing on the shoulders of giants
+Zaposlen v Simfin d.o.o. kot razvijalec in vzdrževalec finančno-računovodstvenega informacijskega sistema.
 
 ### Specialized in
 
@@ -25,15 +24,17 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
-## Education
+## Izobrazba
 
-`1654-1660`
-__The King's School, Grantham.__
+`2009-2013`
+__II Gimnazija, Maribor.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2013 - 2017`
+__Ekonomsko Poslovna fakulteta, Maribor__
 
-- Sizar
+- Dodiplomska smer: Ekonomsko poslovanje
+- Podiplomska smer: Management informatike in elektronskega poslovanja
+- Povprečje: 9,2
 
 `1667 - death`
 __Trinity College, Cambridge__
