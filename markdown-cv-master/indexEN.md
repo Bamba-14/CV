@@ -6,7 +6,7 @@ title: Erik Babič CV EN
 Master of economics, Software developer.
 
 <div id="homeaddress">
-<p align="left" style="color:#A9A9A9" style="font-size:1vw"> Kajuhova 81, 2310. Slovenska Bistrica, Slovenia | +386 41 978 141 </p>
+<p align="left" style="color:#A9A9A9" style="font-size:1vw"> Street, City, Country | phone number </p>
 <img style="border-radius: 50%; position: absolute; right: 13em; top:0.5em; width: 10%;" src = "https://media-exp1.licdn.com/dms/image/C4E03AQGf5264XWTP5w/profile-displayphoto-shrink_200_200/0/1516777056604?e=1655942400&v=beta&t=DSa5obZZBv0QKgTgDL7uTQdMURaeyYSMIV0Ne-dZmJk" alt="profilna slika">
 <img style="position: absolute; right: 6em; top:0.5em; width: 8%;" src = "/media/GitHubCV.png" alt="QR do GitHubCV">
 <span style="position: absolute; right: 5.5em; top:5.2em; font-size: 15px; font-weight: bold" class="caption">GitHub - CV</span>
